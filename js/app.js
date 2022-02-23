@@ -32,3 +32,4 @@ const displaySearchResult = meals =>{
       searchResult.appendChild(div);
    })
 }
+
